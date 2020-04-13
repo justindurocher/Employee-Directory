@@ -6,7 +6,7 @@ SearchBox = (props) => {
 
         <div className="searchBox">
 
-            <header className="SearchHeader">
+            <header className="searchHeader">
 
                 <div className="row">
 

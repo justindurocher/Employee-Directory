@@ -1,0 +1,35 @@
+header{
+    padding: 15px;
+    margin-top: 20px;
+    background-color: navy;
+    color: white;
+    border: 2px solid white;
+    font-family: fantasy;
+}
+.searchHeader{
+    background-color: whitesmoke;
+    margin-top: 5px;
+}
+.searchButton{
+    margin-top: 40px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    font-size: 10px;
+    background-color: gold;
+}
+.inputBox{
+    margin-top: 40px;
+    padding: 5px;
+    width: 100%;
+    float: left 15px;
+}
+#employees.inputBox{
+    margin-top: 15px;
+}
+button.searchButton{
+    margin-top: 10px;
+}
+h3.right-align.headerText{
+    margin-left: 15px;
+    font-size: 45px;
+}
