@@ -3,7 +3,7 @@ import DataArea from './components/DataArea/DataArea.js'
 
 function App() {
   return (
-    <DataArea />
+    <Container />
   );
 }
 
