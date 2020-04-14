@@ -1,5 +1,7 @@
 import { React } from "react";
 
+import "./table.css";
+
 Table = (props) => {
 
     return (
@@ -24,3 +26,5 @@ Table = (props) => {
     )
 
 }
+
+export default Table;

@@ -1,5 +1,7 @@
 import React from 'react';
-import DataArea from './components/DataArea/DataArea.js'
+import { Container } from "./components/container/Container.js";
+import { Header } from "./components/header/Header.js";
+import { Table } from "./components/table/table.js";
 
 function App() {
 
@@ -11,7 +13,7 @@ function App() {
 
       <Container>
 
-        <Home />
+        <Table />
 
       </Container>
 

@@ -1,5 +1,7 @@
 import { React } from "react";
 
+import "./searchBox.css";
+
 searchName = (props) => {
 
     return (
