@@ -6,7 +6,7 @@ searchName = (props) => {
 
         <form className="searchForm">
 
-            <label htmlFor="nameSearch">Search...</label>
+            <label htmlFor="nameSearch" className="searchLabel">Search...</label>
 
             <input 
                 onChange={props.handleInputChange}

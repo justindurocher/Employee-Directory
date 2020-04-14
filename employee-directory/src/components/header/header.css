@@ -1,9 +1,11 @@
 .header{
     background-color: navy;
-    border: 2px solid white;
+    border: 2px solid goldenrod;
 }
 h1{
-    font-size: 40px;
+    font-size: 45px;
+    font-weight: bold;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 1.5px;
+    color: white;
 }

@@ -1,0 +1,18 @@
+.searchForm{
+    background-color: navy;
+    border: 2px solid goldenrod;
+    padding: 10px;
+}
+.searchLabel{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.searchButton{
+    background-color: goldenrod;
+    color: white;
+}
+.searchButton:hover{
+    background-color: white;
+    color: goldenrod;
+}
